@@ -16,8 +16,8 @@ The intent of this repository is to enable multilingual congregations around the
 ---
 
 ## 2. Spanish Translations
-- **Original Repository Translations:** Spanish translations created specifically for this project by the repository maintainers are made available under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/), subject to the rights of the underlying copyright holders of the original works.
-- **Third-Party Translations:** Spanish translations sourced from other translators are included with permission or under their respective original licenses. Credit is provided in each file/folder where applicable. Reusers must respect the terms set by the original translators.
+- **Original Repository Translations:** Translations created specifically for this project by the repository maintainers are made available under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/), subject to the rights of the underlying copyright holders of the original works.
+- **Third-Party Translations:** Translations sourced from other translators are included with permission or under their respective original licenses. Credit is provided in each file/folder where applicable. Reusers must respect the terms set by the original translators.
 
 ---
 
