@@ -1,5 +1,10 @@
-# Sacred-Music-Translations
+# Sacred Music Translations
 This repository serves as a compilation of translations for sacred music, primarily for songs that currently do not have an official translation for the Church of Jesus Christ of Latter-day Saints. 
+
+## Organization
+
+# How to Contribute
+Come back soon after I decide how I want to let people contribute. 
 
 # Licensing and redistribution
 
