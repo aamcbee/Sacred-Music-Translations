@@ -1,10 +1,12 @@
 # Sacred Music Translations
-This repository serves as a compilation of translations for sacred music, primarily for songs that currently do not have an official translation for the Church of Jesus Christ of Latter-day Saints. 
+This repository serves as a compilation of translations for sacred music, primarily for songs that currently do not have an official translation for the Church of Jesus Christ of Latter-day Saints. The focus of this repository for now is Spanish translations, since the developer is a primary chorister and music committee member for a bilingual English/Spanish ward!
+
+None of these translations are official or officially endorsed by the Church of Jesus Christ of Latter-day Saints, and are a best effort. Nevertheless, we hope they bring the Spirit of love and unity to those who sing them, especially in multi-lingual congregations. 
 
 ## Organization
 
 # How to Contribute
-Come back soon after I decide how I want to let people contribute. 
+Come back soon for more information on how to contribute.
 
 # Licensing and redistribution
 
@@ -20,7 +22,7 @@ The intent of this repository is to enable multilingual congregations around the
 
 ---
 
-## 2. Spanish Translations
+## 2. Translations
 - **Original Repository Translations:** Translations created specifically for this project by the repository maintainers are made available under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/), subject to the rights of the underlying copyright holders of the original works.
 - **Third-Party Translations:** Translations sourced from other translators are included with permission or under their respective original licenses. Credit is provided in each file/folder where applicable. Reusers must respect the terms set by the original translators.
 
